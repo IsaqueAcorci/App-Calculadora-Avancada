@@ -11,3 +11,5 @@ Calculadora Avançada é um aplicativo simples e poderoso que oferece várias op
 5. Achar o Resto da Divisão: Encontre o resto quando o primeiro número é dividido pelo segundo.
 6. Radiciação: Calcule a raiz quadrada de um número.
 7. Potenciação: Eleve um número à potência de outro.
+
+**Autoria própria**
